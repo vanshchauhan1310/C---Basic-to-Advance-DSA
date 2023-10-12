@@ -1,4 +1,4 @@
-/* In yhis we are solving hard pattern lvl question*/
+/* In this we are solving hard pattern lvl question*/
 
 #include<iostream>
 using namespace std;
